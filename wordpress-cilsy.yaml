@@ -49,7 +49,7 @@ metadata:
   namespace: staging
 spec:
   rules:
-  - host: wp-staging.agylpradipta.xyz
+  - host: wp.agylpradipta.xyz
     http:
       paths:
         - backend:
